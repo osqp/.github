@@ -26,7 +26,7 @@ can be found in the documentation.
 
 ### Python
 
-OSQP is available through pip by doing:
+OSQP is available through [PyPI](https://pypi.org/project/osqp/) by doing:
 ```
 pip install osqp
 ```
@@ -39,7 +39,7 @@ conda install -c conda-forge osqp
 
 ### Julia
 
-OSQP is available in the general registry by running:
+OSQP is available in the [general registry](https://juliahub.com/ui/Packages/OSQP/BVtcb) by running:
 ```
 pkg> add OSQP
 ```
