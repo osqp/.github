@@ -1,5 +1,8 @@
 # OSQP - The Operator Splitting QP Solver
 
+![GitHub release version](https://img.shields.io/github/v/release/osqp/osqp)
+![License](https://img.shields.io/github/license/osqp/osqp)
+
 ![PyPI - downloads](https://img.shields.io/pypi/dm/osqp.svg?label=Pypi%20downloads)
 ![Conda - downloads](https://img.shields.io/conda/dn/conda-forge/osqp.svg?label=Conda%20downloads)
 ![Julia - downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fpkgs.genieframework.com%2Fapi%2Fv1%2Fbadge%2FOSQP&label=Julia%20downloads)
