@@ -5,7 +5,7 @@
 ![Julia - downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fpkgs.genieframework.com%2Fapi%2Fv1%2Fbadge%2FOSQP&label=Julia%20downloads)
 
 OSQP is an optimization solver for Quadratic Programs (QPs) that uses the Alternating Direction Method of Multipliers (ADMM).
-It is written in pure C, and can be compiled into a library-free embedded solver for control and robotics applications.
+It is written in pure C, is Apache-2.0 licensed, and can be compiled into a library-free embedded solver for control and robotics applications.
 Interfaces to high-level languages like Python, Julia, Matlab and R are also available, and OSQP can be used from
 modelling languages such as CVXPY, JuMP, and YALMIP.
 
@@ -36,7 +36,6 @@ OSQP is also available from [Conda forge](https://anaconda.org/conda-forge/osqp)
 conda install -c conda-forge osqp
 ```
 
-
 ### Julia
 
 OSQP is available in the [general registry](https://juliahub.com/ui/Packages/OSQP/BVtcb) by running:
@@ -44,3 +43,9 @@ OSQP is available in the [general registry](https://juliahub.com/ui/Packages/OSQ
 pkg> add OSQP
 ```
 
+### R
+
+OSQP is available in [CRAN](https://cran.r-project.org/web/packages/osqp/) by running:
+```
+install.packages("osqp")
+```
